@@ -7,7 +7,7 @@
             <img
               class="logo"
               width="200px"
-              src="@/assets/images/logo-login.svg"
+              src="@/assets/images/test.jpg"
               :alt="altLogo"
             />
             <h1>OpenBMC</h1>
