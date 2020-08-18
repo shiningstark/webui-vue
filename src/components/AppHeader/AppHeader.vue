@@ -27,7 +27,7 @@
         <b-navbar-nav>
           <img
             class="header-logo"
-            src="@/assets/images/logo-header.svg"
+            src="@/assets/images/test.jpg"
             :alt="altLogo"
           />
         </b-navbar-nav>
